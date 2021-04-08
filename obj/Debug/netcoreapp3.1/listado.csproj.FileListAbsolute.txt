@@ -2,3 +2,12 @@ C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.csprojAssemblyRefe
 C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.AssemblyInfoInputs.cache
 C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.AssemblyInfo.cs
 C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\listado\bin\Debug\netcoreapp3.1\listado.exe
+C:\Users\USER\Desktop\listado\bin\Debug\netcoreapp3.1\listado.deps.json
+C:\Users\USER\Desktop\listado\bin\Debug\netcoreapp3.1\listado.runtimeconfig.json
+C:\Users\USER\Desktop\listado\bin\Debug\netcoreapp3.1\listado.runtimeconfig.dev.json
+C:\Users\USER\Desktop\listado\bin\Debug\netcoreapp3.1\listado.dll
+C:\Users\USER\Desktop\listado\bin\Debug\netcoreapp3.1\listado.pdb
+C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.dll
+C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.pdb
+C:\Users\USER\Desktop\listado\obj\Debug\netcoreapp3.1\listado.genruntimeconfig.cache
