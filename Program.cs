@@ -35,9 +35,9 @@ namespace listado
                     int N1 =Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("INGRESE NOTA SEGUNDO PARCIAL:  ");
                     int N2 =Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine("NOTA FINAL:  ");
-                    //int NF =Convert.ToInt32(N1+N2);
-                    int NF =Convert.ToInt32(Console.ReadLine());
+                    //Console.WriteLine("NOTA FINAL:  ");
+                    int NF =Convert.ToInt32(N1+N2);
+                    //int NF =Convert.ToInt32(Console.ReadLine());
 
                     notas note = new notas(curso,N1,N2,NF);
                     listadonotas[x]=note;
