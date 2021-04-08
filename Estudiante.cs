@@ -6,9 +6,9 @@ namespace listado
     {
         public string nombre, carnet;
         public int edad;
-        public bool solvente;
+        public Boolean solvente;
 
-       public Estudiante(string nombre, string carnet, int edad, bool solvente ){
+       public Estudiante(string nombre, string carnet, int edad, Boolean solvente ){
            this.nombre=nombre;
            this.carnet=carnet;
            this.edad=edad;
